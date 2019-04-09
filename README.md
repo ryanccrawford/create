@@ -23,3 +23,5 @@ assets/javascript/app.js
 
 Just a simple program to make your day a little longer. :)
 
+Project Future:
+I will add new features as we advance in class. The first will be a propmt that will as you to paste the name of the repo you would like to create in git, it then will create the repo, the readmefile, the local folders and files, then it will commit the new files and add them to your git repo all with one commmand.. Stay tunned!!
