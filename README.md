@@ -9,17 +9,17 @@ To use it simply download it to your computer and copy it to a freshly created f
        
 #The script creates these folders:
 
-assets
-assets/images
-assets/css
-assets/javascript
+-assets
+-assets/images
+-assets/css
+-assets/javascript
 
 and these files
 
-index.html
-assest/css/style.css
-assest/css/resets.css
-assets/javascript/app.js
+-index.html
+-assest/css/style.css
+-assest/css/resets.css
+-assets/javascript/app.js
 
 Just a simple program to make your day a little longer. :)
 
