@@ -17,4 +17,4 @@ cd ..
 @echo Creating resets.css file...
 touch index.html assets/javascript/app.js assets/css/style.css assets/css/resets.css
 @echo Done... (Remember Say "Thank You Ryan")
-
+del create.bat /Q
